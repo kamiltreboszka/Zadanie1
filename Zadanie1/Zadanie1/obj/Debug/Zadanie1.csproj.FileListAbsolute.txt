@@ -1,0 +1,6 @@
+C:\Users\Kamil\source\repos\Zadanie1\Zadanie1\bin\Debug\Zadanie1.exe.config
+C:\Users\Kamil\source\repos\Zadanie1\Zadanie1\bin\Debug\Zadanie1.exe
+C:\Users\Kamil\source\repos\Zadanie1\Zadanie1\bin\Debug\Zadanie1.pdb
+C:\Users\Kamil\source\repos\Zadanie1\Zadanie1\obj\Debug\Zadanie1.csprojAssemblyReference.cache
+C:\Users\Kamil\source\repos\Zadanie1\Zadanie1\obj\Debug\Zadanie1.exe
+C:\Users\Kamil\source\repos\Zadanie1\Zadanie1\obj\Debug\Zadanie1.pdb

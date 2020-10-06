@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<ArrayOfPerson xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Person>
+    <Name>Kamil</Name>
+    <Surname>Tręboszka</Surname>
+    <Age>21</Age>
+    <Gender>M</Gender>
+    <Code>99400</Code>
+    <City>Łowicz</City>
+    <Street>Wełniana</Street>
+    <HouseNumber>4</HouseNumber>
+  </Person>
+  <Person>
+    <Name>Anna</Name>
+    <Surname>Kowalska</Surname>
+    <Age>33</Age>
+    <Gender>K</Gender>
+    <Code>86352</Code>
+    <City>Łódź</City>
+    <Street>Szeroka</Street>
+    <HouseNumber>12</HouseNumber>
+  </Person>
+  <Person>
+    <Name>Mateusz</Name>
+    <Surname>Przybysz</Surname>
+    <Age>46</Age>
+    <Gender>M</Gender>
+    <Code>92671</Code>
+    <City>Mińsk Mazowiecki</City>
+    <Street>Polna</Street>
+    <HouseNumber>32</HouseNumber>
+  </Person>
+</ArrayOfPerson>
